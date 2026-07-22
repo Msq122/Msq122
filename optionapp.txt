@@ -1,1 +1,1 @@
-appcanopen=false
+appcanopen=true
