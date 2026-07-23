@@ -1,0 +1,89 @@
+2.1. Impersonating administration or moderation of the server without being its representative.
+Punishment: Account blocked for 7 days (or donation removal if the violation is particularly severe).
+
+2.2. Installing objects that excessively load the server and interfere with its stable operation.
+Punishment: Account blocked from 10 to 30 days (or donation removal if the violation is particularly severe).
+
+2.3. Using server vulnerabilities for personal gain (bugs, duplication).
+Punishment: Account blocked for 7 days (or donation removal if the violation is particularly severe).
+
+2.4. Using any cheats when fighting another player (exception: clicker without auto-aim).
+Punishment: Account blocked for 15 days (or donation removal if the violation is particularly severe).
+
+2.5. Any transfer/sale/hacking of account.
++ If you transferred your account to another player and they violated the rules - only you are to blame.
+Punishment: Account blocked forever and donation removal.
+
+2.6. Trading in-game valuables for real currency (for example, rubles or dollars).
++ Exception: Exchange of in-game items for donation purchases issued to another player's account (for example, a player gives you 10 emerald blocks, and you buy a privilege for them).
+Punishment: Account blocked forever and donation removal.
+
+2.7. Creating obstacles for the work of moderation or administration.
+Punishment: Kick/account block/chat block or donation removal depending on the situation, at the discretion of administration/moderation.
+
+2.8. Disrupting entertainment events on the project or creating distracting factors for organizers.
+Punishment: Kick/chat block/account block/donation removal depending on the situation, at the discretion of administration/moderation.
+
+2.9. Inciting players to break rules with an offer of benefits (for example, asking to ban someone for 10 diamond blocks).
+Punishment: Account blocked for 3 days (or donation removal if the violation is particularly severe).
+
+2.10. Misleading players (including deceiving players for donation currency - rubies when exchanging them for game resources).
+Punishment: Account blocked for 15 days (or account removal if the violation is particularly severe).
+
+2.11. Any PvP or griefing using donation abilities.
++ All players added to private are equal owners of the region - that is, by adding a player to your private, you allow them to do anything in the region.
++ Also prohibited is giving effects using the "/effect" command to yourself or another player with subsequent use in battle with any player (exceptions are those effects whose level does not exceed standard values, that is, obtained, for example, by eating an enchanted apple or using regular potions).
+Punishment: In case of regular PvP - warning and account blocked for 4 days, in case of griefing (even from a player without donation) - account blocked for 7 days (or donation removal if the violation is particularly severe).
+
+2.12. Bypassing any punishment by creating a new account with subsequent violations.
+Punishment: IP block or doubling of punishment period (account block under 2.12 is not included).
+
+2.13. Incorrect removal or issuance of any punishment (even to yourself) without reason or without evidence (for example, incorrect punishment measure or removing chat block because it's your friend).
++ Punishment in the form of kick can be issued as a warning punishment.
++ Donor can issue punishment less than the period specified in the rules or a lesser degree of punishment, but not higher than written in the rules, if they, for example, do not have access to the punishment specified in the rules (for example, chat block instead of account).
+Punishment: Warning and account blocked for 4 days (or donation removal if the violation is particularly severe).
+
+2.14. Issuing punishment (even to yourself) with insulting subtext or profanity (for example, account block for reason "loser").
+Punishment: Account blocked for 10 days and donation removal.
+
+2.15. Having permanent (registration) or changed through command insulting or profane nickname.
++ If the nickname is changed through command - should ask the player to change it to any other that is not prohibited by the rules (if refused or ignored - issue punishment).
+Punishment: If the nickname is changed via the command, the account will be blocked for 7 days, if the nickname is permanent, the account will be blocked permanently (or the donation will be removed if the violation is particularly serious).
+
+2.16. Installing invisible, pornographic, profane, as well as too large or too small 4D skin or cape (as well as any other skin or cape violating other rules).
++ Installed skin must not be lower than 1 block and not higher than 3 blocks.
+Punishment: Account blocked for 7 days (or donation removal if the violation is particularly severe).
+
+2.17. Teleporting player to yourself without reason.
+Punishment: Account blocked for 3 days and warning.
+
+2.18. Interference in the region on anti-grifting modes (the region owner has the right to kick third-party players out of the region).
+Punishment: Verbal request to leave region, if player refuses - kick, if situation repeats - account blocked for 30 minutes (or donation removal if the violation is particularly severe).
+
+2.19. Map corruption, installing or breaking blocks in chaotic order, spilling large amounts of water or lava (allowed in your region).
+Punishment: Account blocked for 5 days (or donation removal if the violation is particularly severe).
+
+2.20. Abuse or purposeful flooding in huge quantities with any commands.
+Punishment: Account blocked for 12 hours (or donation removal if the violation is particularly severe).
+
+2.21. Spreading Nazism or fascism (for example, building swastika).
+Punishment: Account blocked for 15 days and demolition of prohibited structure (or donation removal if the violation is particularly severe).
+
+2.22. Installing prefix containing profane language, staff prefix and any other that somehow violates server rules.
+Punishment: Warning and account blocked for 7 days (or donation removal if the violation is particularly severe).
+
+2.23. Deception or attempt to deceive someone for game account.
+Punishment: Account blocked forever and donation removal.
+
+2.24. Giving money using commands "/givemoney" and "/setmoney" or expensive resources from creative in huge quantities to many players or zeroing balance without reason.
+Punishment: Account blocked for 15 days and warning (or donation removal if the violation is particularly severe).
+
+2.25. Giving yourself punishment for small period in order to avoid normal punishment.
+Punishment: Account blocked for 10 days and warning (or donation removal if the violation is particularly severe).
+
+2.26. Creating clan whose name matches staff prefix name, contains profane language or violates other rules.
++ If you are a member of the clan, not its owner - before punishment there will be verbal request to leave it.
+Punishment: Account blocked for 7 days and warning.
+
+2.27. Any threats of deanonymization, doxxing, swatting and other similar actions or statements violating safety and personal space of players.
+Punishment: Account blocked for 30 days and donation removal.
