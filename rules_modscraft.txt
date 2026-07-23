@@ -87,3 +87,40 @@ Punishment: Account blocked for 7 days and warning.
 
 2.27. Any threats of deanonymization, doxxing, swatting and other similar actions or statements violating safety and personal space of players.
 Punishment: Account blocked for 30 days and donation removal.
+
+
+3.1. Offensive/humiliating statements towards any player or administration/moderation (if you "send away" player or administration/moderation - it will also be considered insult).
+Punishment: When insulting player - chat blocked for 30 minutes, when insulting moderation/administration of project - account blocked for 3 days.
+
+3.2. Flood, spam or sending identical messages in short period of time.
++ Interval between identical messages not less than 30 seconds; no more than two identical messages in row; advertising warp, shop and similar - no more than once every 2 minutes.
+Punishment: Chat blocked for 30 minutes (or donation removal if the violation is particularly severe).
+
+3.3. Advertising any third-party software, game resources, channels, servers, shops.
++ Mention can be calculated as advertising.
+Punishment: Account blocked for 30 days and donation removal.
+
+3.4. Insulting the project.
+Punishment: Account blocked for 30 days and donation removal.3.5. Publicizing bugs or dupes.
+Punishment: Account blocked for 7 days (or donation removal if the violation is particularly severe).
+
+3.6. Insulting or mentioning someone's relatives in offensive manner.
+Punishment: Account blocked for 10 days (or donation removal if the violation is particularly severe).
+
+3.7. Insulting feelings of believers.
+Punishment: Account blocked for 10 days (or donation removal if the violation is particularly severe).
+
+3.8. Propaganda or agitation inciting social, racial, national or religious hatred and enmity.
+Punishment: Account blocked for 15 days (or donation removal if the violation is particularly severe).
+
+3.9. Begging for resources or any other game and non-game valuables.
+Punishment: Chat blocked from 10 to 30 minutes (or donation removal if the violation is particularly severe).
+
+3.10. Multiple violations (more than 5 times in 24 hours) of chat rules (when player repeatedly receives same punishment for same violation).
+Punishment: Account blocked for 10 days (or donation removal if the violation is particularly severe).
+
+3.11. Discussion of politics/military actions in any form, creating structures or clans with names that somehow touch on politics or military actions.
+Punishment: Warning in form of chat block for 30 minutes, then account block for 10 hours, then block for 3 days (or donation removal if the violation is particularly severe).
+
+3.12. Threats of causing moral or physical harm in real life.
+Punishment: Account blocked for 7 days (or donation removal if the violation is particularly severe).
